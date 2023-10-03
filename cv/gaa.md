@@ -106,7 +106,7 @@ permalink: /cv/g_armeev
 		<td valign="top"><b>SELECTED PUBLICATIONS</b></td>
 		<td>
 
-			<table class="rowu">
+		<table class="rowu">
 			<tr class="rowu"><td>2023</td><td align="left">  Stefanova ME,  Volokh OI, Chertkov OV, <u>Armeev GA</u>, Shaytan AK, et.al Structure and Dynamics of Compact Dinucleosomes: Analysis by Electron Microscopy and spFRET <b>IJMS</b> <a href="https://doi.org/10.3390/ijms241512127">https://doi.org/10.3390/ijms241512127</a></td></tr>
 			<tr class="rowu"><td>2022</td><td align="left">  Kniazeva, A. S., <u>Armeev, G. A., and Shaytan, A. K. H2A-H2B histone dimer plasticity and its functional implications. <b>Cells</b> <a href="https://doi.org/10.3390/cells11182837">https://doi.org/10.3390/cells11182837</a></td></tr>
 			<tr class="rowu"><td>2022</td><td align="left">  <u>Armeev G. A.</u>, Gribkova A. K., Shaytan A. K. Nucleosomes and their complexes in the cryoem era: Trends and limitations. <b>Frontiers in Molecular Biosciences</b><a href="https://doi.org/10.3389/fmolb.2022.1070489">https://doi.org/10.3389/fmolb.2022.1070489</a></td></tr>
@@ -115,16 +115,16 @@ permalink: /cv/g_armeev
 			<tr class="rowu"><td>2020</td><td align="left"> Zabelskii D, Alekseev A, Kovalev K, ... <u> Armeev G </u>, ... et. al. "Viral rhodopsins 1 are unique family of light-gated cation channels".  <b>Nature communications.</b><a href="https://www.nature.com/articles/s41467-020-19457-7">https://www.nature.com/articles/s41467-020-19457-7</a></td></tr>
 			<tr class="rowu"><td>2020</td><td align="left"> Albakova, Zarema, <u>Armeev, G. A</u>, Leonid M. Kanevskiy, Elena I. Kovalenko, Alexander M. Sapozhnikov. "HSP70 Multi-Functionality in Cancer". <b>Cells</b> <a href="https://doi.org/10.3390/cells9030587">https://doi.org/10.3390/cells9030587</a></td></tr>
 			<tr class="rowu"><td>2020</td><td align="left"> <u>Armeev, Grigoriy A</u>. et al. "Linking chromatin composition and structural dynamics at the nucleosome level". <b>Current Opinion in Structural Biology</b><a href="https://doi.org/10.1016/j.sbi.2018.11.006">https://doi.org/10.1016/j.sbi.2018.11.006</a></td></tr>
-						<tr class="rowu"><td>2017</td><td align="left">Shaytan AK, Xiao H, <u>Armeev GA</u>, Wu C, Landsman D, Panchenko AR. Hydroxyl-radical footprinting combined with molecular modeling identifies unique features of DNA conformation and nucleosome positioning. <b>Nucleic Acids Res.</b> 2017;45: 9229–9243. doi:<a href="http://dx.doi.org/10.1093/nar/gkx616">10.1093/nar/gkx616</a>; </td></tr>
+			<tr class="rowu"><td>2017</td><td align="left">Shaytan AK, Xiao H, <u>Armeev GA</u>, Wu C, Landsman D, Panchenko AR. Hydroxyl-radical footprinting combined with molecular modeling identifies unique features of DNA conformation and nucleosome positioning. <b>Nucleic Acids Res.</b> 2017;45: 9229–9243. doi:<a href="http://dx.doi.org/10.1093/nar/gkx616">10.1093/nar/gkx616</a>; </td></tr>
 
 			<tr class="rowu"><td>2016</td><td align="left">Shaytan AK, <u>Armeev GA</u>, Goncearenco A, Zhurkin VB, Landsman D, Panchenko AR. Coupling between Histone Conformations and DNA Geometry in Nucleosomes on a Microsecond Timescale: Atomistic Insights into Nucleosome Functions. <b>J Mol Biol</b>. 2016;428: 221–237. doi:<a href="http://dx.doi.org/10.1016/j.jmb.2015.12.004">10.1016/j.jmb.2015.12.004</a></td></tr>
 
 			<tr class="rowu"><td>2016</td><td align="left">Valieva ME, <u>Armeev GA</u>, Kudryashova KS, Gerasimova NS, Shaytan AK, Kulaeva OI, et al. Large-scale ATP-independent nucleosome unfolding by a histone chaperone. <b>Nat Struct Mol Biol</b>. 2016;23: 1111–1116. doi:<a href="http://dx.doi.org/10.1038/nsmb.3321">10.1038/nsmb.3321</a></td></tr>
 			<tr class="rowu"><td> </td><td align="left"><a href="https://istina.msu.ru/profile/satary/"> All publications at ISTINA (Russian)</a> </td></tr>
 						
-			</table>
+		</table>
 		</td>
 	</tr>
 	
-</tbody>
-</table>
+	</tbody>
+	</table>
