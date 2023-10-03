@@ -21,7 +21,7 @@ permalink: /team/
 </tr>
 <tr>
 <td markdown="span"> <img src="{{ "/assets/armeev_avatar_small.png" | relative_url }}" width="200px" /> </td>
-<td markdown="span"><b>Grigoriy A. Armeev, PHD - Leading Scientist </b> <br> Grigoriy recieved his M.S. in bioengineering from Moscow State University, Russia. 
+<td markdown="span"><b>Grigoriy A. Armeev, PHD - Leading Scientist </b> <br> Grigoriy received his M.S. in bioengineering from Moscow State University, Russia. 
 Currently, he is working on projects related to multi-scale chromatin modeling at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
 [Curriculum Vitae]({{ "/cv/g_armeev" | relative_url }}) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Armeev+GA%5BAuthor%5D) | E-mail: [armeev@intbio.org](mailto:armeev@intbio.org) 
 </td>
