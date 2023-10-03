@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+<!-- <h1 class="page-heading">Posts</h1> -->
+  <table>
+  <col width="75%">
+  <col width="5%">
+  <col width="20%">
+   <tr>
+    <td valign="top">
+  {{ content }}
+  <table>
+    <thead>
+  <th> Blog posts </th>
+      </thead>
+    <tbody>
+      <tr><td>
+  <ul class="post-list">
+    {% for post in site.posts %}
+    {% unless post.draft %}
+      <li>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+          <a  href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        
+      </li>
+    {% endunless %}
+    {% endfor %}
+  </ul>
+   </td> </tr>
+    </tbody>
+  </table>    
+      
+     </td>
+     <td></td>
+     <td valign="top"><b>Hot links</b>
+       <ul class="post-list-hl" >
+         <li><a href="seminar">• Lab seminars</a></li>
+         <li><a href="https://github.com/intbio">• GitHub</a></li>
+         <li><a href="https://github.com/intbio/IT_notes">• IT notes</a></li>
+         <li><a href="https://github.com/intbio/IntBioEdu">• IntBioEdu</a></li>
+         <li><a href="https://github.com/intbio/MolModEdu">• MolModEdu</a></li>
+         <li><a href="https://github.com/intbio/BioInfEdu">• BioInfEdu</a></li>
+         <li><a href="https://github.com/intbio/WetLabEdu">• WetLabEdu</a></li>
+         <li><a href="http://intbio.org/bioinf2021-2022">• BIOINF2021/22</a></li>
+         <li><a href="http://intbio.org/sb2019">• SynBio2019</a></li>
+         <li><a href="http://intbio.org/PhysSem/">• PhysSem</a></li>
+         <li><a href="http://intbio.org/igem2019/">• iGEM2019</a></li>
+         <li><a href="http://github.com/intbio/soph_labs/">• SophLabs</a></li>
+         
+         
+       </ul>
+        <a class="twitter-timeline" data-width="100" data-height="600" data-theme="light" href="https://twitter.com/Intbiol?ref_src=twsrc%5Etfw">Tweets by Intbiol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+       
+     </td>
+    </tr>
+   </table>
+
+
+
+ <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
+
+</div>
+
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
+<div class="home">
+
+ 
