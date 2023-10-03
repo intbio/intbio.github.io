@@ -32,7 +32,7 @@ permalink: /cv/g_armeev
 							<tr>
 								<td align="right">Social media:</td>
 								<td valign="top" align="left">
-									<div> <a href="https://twitter.com/sa1ary?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @2AlexSha</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div>
+									<div> <a href="https://twitter.com/sa1ary?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div>
 
 									<a target="_blank" title="find us on Facebook" href="https://www.facebook.com/profile.php?id=100001424042362"> <img src="http://login.create.net/images/icons/user/facebook_40x40.png" width="36" height="20" style="border:1px solid white" alt="follow me on facebook"/> </a>
 			
