@@ -27,15 +27,9 @@ Currently, he is working on projects related to multi-scale chromatin modeling a
 </td>
 </tr>
 
-<tr>
-<td markdown="span"> <img src="{{ "/assets/FullSizeRender.jpg" | relative_url }}" width="200px" /> </td>
-<td markdown="span"><b>Tatiana K. Gorkovets - PHD student</b> <br> Tatiana recieved her M.S. in bioengineering from Moscow State University, Russia. She is currently pursuing PHD studies at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
-[Curriculum Vitae]({{ "/cv/Gorkovets_cv.pdf" | relative_url }}) | E-mail: [tgorkovets@gmail.com](mailto:tgorkovets@gmail.com) 
-</td>
-</tr>
  <tr>
 <td markdown="span"> <img src="{{ "/assets/photo_akg.jpg" | relative_url }}" width="200px" /> </td>
-<td markdown="span"><b>Anna K. Gribkova - Master's student</b> <br> Anna recieved her B.S. (specialization: Bioengineering and Biotechnology) from Moscow State University, Russia. She is currently pursuing Masters's studies at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
+<td markdown="span"><b>Anna K. Gribkova - PHD candidate</b> <br> Anna received her B.S. (specialization: Bioengineering and Biotechnology) from Moscow State University, Russia. She is currently pursuing Masters's studies at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
 [Curriculum Vitae]({{ "/cv/akg.pdf" | relative_url }}) | E-mail: [gribkova.anna.2013@post.bio.msu.ru](mailto:gribkova.anna.2013@post.bio.msu.ru) 
 </td>
 </tr>
@@ -45,30 +39,57 @@ Currently, he is working on projects related to multi-scale chromatin modeling a
 [Curriculum Vitae]({{ "/cv/CV_Iunona_Pospelova.pdf" | relative_url }}) | E-mail: [pospelova.yunona.2015@post.bio.msu.ru](mailto:pospelova.yunona.2015@post.bio.msu.ru) 
 </td>
 </tr>
+
   <tr>
 <td markdown="span"> <img src="{{ "/assets/kniazeva.jpg" | relative_url }}" width="200px" /> </td>
-<td markdown="span"><b>Kniazeva Anastasiia - BSс student</b> <br> Anastasiia is currently pursuing her BSс at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
+<td markdown="span"><b>Kniazeva Anastasiia - PHD candidate</b> <br> Anastasiia is currently pursuing her BSс at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
 [Curriculum Vitae]({{ "/cv/CV_Kniazeva_Anastasiia.pdf" | relative_url }}) | E-mail: [a.kniazeva@intbio.org](mailto:a.kniazeva@intbio.org) 
   </td>
   </tr>
+  
    <tr>
 <td markdown="span"> <img src="{{ "/assets/Krist.JPG" | relative_url }}" width="200px" /> </td>
-<td markdown="span"><b>Nikolay Kristovskiy - BSс student</b> 
+<td markdown="span"><b>Nikolay Kristovskiy - PHD candidate</b> 
  <br> Nikolay is currently pursuing his BSс at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
 [Curriculum Vitae]({{ "/cv/CV_Nikolay_Kristovsky.pdf" | relative_url }}) | E-mail: [n.kristovsky@intbio.org](mailto:n.kristovsky@intbio.org) 
   </td>
   </tr>
+ 
+ 
+</tbody>
+</table>
+
+
+## Former members
+
+
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<tbody>
+
+
+<tr>
+<td markdown="span"> <img src="{{ "/assets/FullSizeRender.jpg" | relative_url }}" width="200px" /> </td>
+<td markdown="span"><b>Tatiana K. Gorkovets - PHD student</b> <br> Tatiana recieved her M.S. in bioengineering from Moscow State University, Russia. She is currently pursuing PHD studies at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
+[Curriculum Vitae]({{ "/cv/Gorkovets_cv.pdf" | relative_url }}) | E-mail: [tgorkovets@gmail.com](mailto:tgorkovets@gmail.com) 
+</td>
+</tr>
+
+ 
+ <tr>
+<td markdown="span"> <img src="{{ "/assets/photo_iup.jpg" | relative_url }}" width="200px" /> </td>
+<td markdown="span"><b>Iunona Pospelova - BSс student</b> <br> Iunona is currently pursuing her BSс at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
+[Curriculum Vitae]({{ "/cv/CV_Iunona_Pospelova.pdf" | relative_url }}) | E-mail: [pospelova.yunona.2015@post.bio.msu.ru](mailto:pospelova.yunona.2015@post.bio.msu.ru) 
+</td>
+</tr>
 
    <tr>
 <td markdown="span"> <img src="{{ "/assets/Greshnova.png" | relative_url }}" width="200px" /> </td>
 <td markdown="span"><b>Greshnova Alexandra - BSс student</b> <br> Alexandra is currently pursuing her BSс at the Bioengineering Department, Faculty (School) of Biology, Moscow State University. <br>
 [Curriculum Vitae]({{ "/agreshnova" | relative_url }}) | E-mail: [a.greshnova@intbio.org](mailto:a.greshnova@intbio.org)
-  </td>
-  </tr>
- <tr>
-<td markdown="span"> <img src="{{ "/assets/V. Adlerberg.jpg" | relative_url }}" width="200px" /> </td>
-<td markdown="span"><b>Adlerberg Vladimir - BSc student</b> <br> Vladimir is currently pursuing his BSc and passes his summer practice at the Bioengineering  Department, Faculty (School) of Biology, Moscow State University.<br> 
- E-mail:[v.adlerberg@intbio.org](mailto:v.adlerberg@intbio.org)
   </td>
   </tr>
   
@@ -79,7 +100,6 @@ Currently, he is working on projects related to multi-scale chromatin modeling a
    </td>
   </tr>
   
- 
  
 </tbody>
 </table>
