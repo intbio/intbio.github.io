@@ -15,7 +15,7 @@ permalink: /team/
 <tbody>
 <tr>
 <td markdown="span"><img src="{{ "/assets/photo_aksh.jpg" | relative_url }}" width="200px" /> </td>
-<td markdown="span"><b>Alexey K. Shaytan, PHD, Dr. Sci. - Group Leader</b> <br> Alexey Shaytan is an associate professor at the Department of Bioengineering, Faculty (School) of Biology, Moscow State Lomonosov University. His research revolves around application of computational, modeling, engineering, data analysis and management techniques to understand how living systems work at the molecular level. A particular focus of his research is on understanding how genetic programs encoded in DNA molecules drive development and functioning of living organisms. Dr. Shaytan received his M.S. and PHD in condensed matter physics from Moscow State University, Russia and Dr. Rer. Nat. (PHD) degree in molecular modeling from the University of Ulm, Germany. He was a post-doctoral visiting fellow at the National Center for Biotechnology Information, NIH, Bethesda USA, where he received training in computational biology and bioinformatics. <br>
+<td markdown="span"><b>Alexey K. Shaytan, PHD, Dr. Sci. - Group Leader</b> <br> Alexey Shaytan is an associate professor at the Department of Bioengineering, Faculty (School) of Biology, Moscow State Lomonosov University. His research revolves around the application of computational, modeling, engineering, data analysis, and management techniques to understand how living systems work at the molecular level. A particular focus of his research is on understanding how genetic programs encoded in DNA molecules drive development and functioning of living organisms. Dr. Shaytan received his M.S. and PHD in condensed matter physics from Moscow State University, Russia, and Dr. Rer. Nat. (PHD) degree in molecular modeling from the University of Ulm, Germany. He was a post-doctoral visiting fellow at the National Center for Biotechnology Information, NIH, Bethesda USA, where he received training in computational biology and bioinformatics. <br>
 [Curriculum Vitae]({{ "/alexey_shaytan" | relative_url }}) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=shaytan+a+%5Bauth%5D) | [Google Scholar](https://scholar.google.com/citations?user=Ug0JSXEAAAAJ&hl=en&oi=ao) | E-mail: [alex@intbio.org](mailto:alex@intbio.org) 
 </td>
 </tr>
@@ -31,12 +31,6 @@ Currently, he is working on projects related to multi-scale chromatin modeling a
 <td markdown="span"> <img src="{{ "/assets/photo_akg.jpg" | relative_url }}" width="200px" /> </td>
 <td markdown="span"><b>Anna K. Gribkova - PHD candidate</b> <br> Anna received her B.S. (specialization: Bioengineering and Biotechnology) from Moscow State University, Russia. She is currently pursuing Masters's studies at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
 [Curriculum Vitae]({{ "/cv/akg.pdf" | relative_url }}) | E-mail: [gribkova.anna.2013@post.bio.msu.ru](mailto:gribkova.anna.2013@post.bio.msu.ru) 
-</td>
-</tr>
- <tr>
-<td markdown="span"> <img src="{{ "/assets/photo_iup.jpg" | relative_url }}" width="200px" /> </td>
-<td markdown="span"><b>Iunona Pospelova - BSс student</b> <br> Iunona is currently pursuing her BSс at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
-[Curriculum Vitae]({{ "/cv/CV_Iunona_Pospelova.pdf" | relative_url }}) | E-mail: [pospelova.yunona.2015@post.bio.msu.ru](mailto:pospelova.yunona.2015@post.bio.msu.ru) 
 </td>
 </tr>
 
@@ -59,7 +53,7 @@ Currently, he is working on projects related to multi-scale chromatin modeling a
 </tbody>
 </table>
 
-
+<br>
 ## Former members
 
 
@@ -73,7 +67,7 @@ Currently, he is working on projects related to multi-scale chromatin modeling a
 
 <tr>
 <td markdown="span"> <img src="{{ "/assets/FullSizeRender.jpg" | relative_url }}" width="200px" /> </td>
-<td markdown="span"><b>Tatiana K. Gorkovets - PHD student</b> <br> Tatiana recieved her M.S. in bioengineering from Moscow State University, Russia. She is currently pursuing PHD studies at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
+<td markdown="span"><b>Tatiana K. Gorkovets - PHD student</b> <br> Tatiana received her M.S. in bioengineering from Moscow State University, Russia. She is currently pursuing PHD studies at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
 [Curriculum Vitae]({{ "/cv/Gorkovets_cv.pdf" | relative_url }}) | E-mail: [tgorkovets@gmail.com](mailto:tgorkovets@gmail.com) 
 </td>
 </tr>
