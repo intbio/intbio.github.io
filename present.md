@@ -44,6 +44,7 @@ permalink: /present/
 - [Ярославль 2023](https://www.dropbox.com/s/9usa5raifkaic20/Shaytan_2023_to_show.pptx?dl=0)
 - [RICCEM2023](https://www.dropbox.com/s/9l6581gw6xi25zp/shaytan_2023_to_show.pptx?dl=0)
 - [Суперкомпьютерная академия](https://www.dropbox.com/scl/fi/8dohw08s7lbceej1aiz6r/Shaytan.pptx?rlkey=e3ril6ajmtlsp76chaxwc1a5c&dl=0)
+- [Фестиваль науки 2023](https://www.dropbox.com/scl/fi/zn6eny5mtag2wxt673oj8/Shaytan.pptx?rlkey=mik64iqojpyi7w79lrwyj9jhk&dl=0)
 
 ## Тезисы
 - [биофизич съезд](https://drive.google.com/file/d/1Sbvq-0tKhdbXvu4f_WldkGYGgihVN08g/view?usp=sharing)
