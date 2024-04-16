@@ -7,6 +7,10 @@ permalink: /teaching/
 ---
 
 # Courses and workshops
+- Introduction to epigenetics and Chromatin @ Sirius University [http://intbio.org/2024_chromatin_sirius](http://intbio.org/2024_chromatin_sirius)
+- Molecular modeling 2024 spring [http://intbio.org/mm_2024/](http://intbio.org/mm_2024/)
+- Molecular modeling 2023 fall @ HSE University [http://intbio.org/mm_hse_2023/](http://intbio.org/mm_hse_2023/)
+- Molecular modeling 2023 spring [http://intbio.org/mol_model_course_2023/](http://intbio.org/mol_model_course_2023/)
 - Molecular modeling 2022 spring [http://intbio.org/mol_model_course_2022/](http://intbio.org/mol_model_course_2022/)
 - HSE introduction to molecular modeling 2021 fall [http://intbio.org/hse_mol_mod_2021/](http://intbio.org/hse_mol_mod_2021/) (in Russian)
 - Programming for biologists 2021 fall [http://intbio.org/progr_sirius_2021/](http://intbio.org/progr_sirius_2021/) (in Russian)
