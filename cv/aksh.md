@@ -84,6 +84,7 @@ Alexey Shaytan received his diploma in condensed matter physics from Moscow Stat
 		<td valign="top"><b>WORK<br>EXPERIENCE</b></td>
 		<td>
 			<table class="rowu">	
+   				<tr class="rowu"><td align="center">2021-</td><td align="center"><b>Full Professor</b></td><td> Department of Bioengineering, Faculty of Biology, Moscow State University </td></tr>
 				<tr class="rowu"><td align="center">2021-</td><td align="center"><b>Associate Professor</b></td><td> Department of Bioengineering, Faculty of Biology, Moscow State University </td></tr>
 				<tr class="rowu"><td align="center">2017-</td><td align="center"><b>Group Leader</b></td><td>Integrative Biology Group, Department of Bioengineering, Faculty of Biology, Moscow State University </td></tr>
 				<tr class="rowu"><td align="center">2013--2017</td><td align="center"><b>Postdoctoral Visiting Fellow</b></td><td>National Center for Biotechnology Information, National Institutes of Health, USA; Advisor: Dr. Anna R. Panchenko</td></tr>
