@@ -28,9 +28,11 @@ Currently, he is working on projects related to multi-scale chromatin modeling a
 </tr>
 
  <tr>
-<td markdown="span"> <img src="{{ "/assets/photo_akg.jpg" | relative_url }}" width="200px" /> </td>
-<td markdown="span"><b>Anna K. Gribkova - PHD candidate</b> <br> Anna received her B.S. (specialization: Bioengineering and Biotechnology) from Moscow State University, Russia. She is currently pursuing Masters's studies at the Bioengineering Department, Faculty (School) of Biology, Moscow State University.<br>
-[Curriculum Vitae]({{ "/cv/akg.pdf" | relative_url }}) | E-mail: [gribkova.anna.2013@post.bio.msu.ru](mailto:gribkova.anna.2013@post.bio.msu.ru) 
+<td markdown="span"> <img src="{{ "/assets/gribkova.jpg" | relative_url }}" width="200px" /> </td>
+<td markdown="span"><b>Anna K. Gribkova - PHD candidate, Junior Researcher</b> <br> Anna received her M.S. (specialization: Bioengineering and Biotechnology) and completed PhD programme (specialization:  Mathematical Biology, Bioinformatics) from Moscow State University, Russia.  
+
+ She is currently working at the Bioengineering Department, Faculty (School) of Biology, Moscow State University on projects related to understanding chromatin function in normal and pathological condition using bioinformatic analysis of chromatin proteins (diversity, physico-chemical properties, abundance), NGS data analysis and ML techniques. <br>
+[Curriculum Vitae]({{ "/cv/2024_cv_anna_gribkova.pdf" | relative_url }}) | E-mail: [gribkova.anna.2013@post.bio.msu.ru](mailto:gribkova.anna.2013@post.bio.msu.ru) 
 </td>
 </tr>
 
