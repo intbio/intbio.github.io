@@ -5,7 +5,7 @@ weight: 7
 permalink: /present/
 ---
 
-# Presentations
+# Presentations 
 - [Съезд биофизиков 2019](https://www.dropbox.com/s/5ah9d1ij4p1tzgx/shaytan_biophys_2019.pptx?dl=0)
 - Лекция 2-3 курс Биоинформатика МГУ Биофак [presentation](https://www.dropbox.com/s/18fri9qonbq9nbf/lecture2-3.pptx?dl=0)
 - MCCMB 2019 [presentation](https://www.dropbox.com/s/q7wjs4sl6268owv/shaytan_mccmb_2019.pptx?dl=0)
