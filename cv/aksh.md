@@ -49,6 +49,7 @@ permalink: /alexey_shaytan
 							<tr><td align="right">ResearchGate:</td><td><a href="https://www.researchgate.net/profile/Alexey_Shaytan3">Alexey_Shaytan3</a></td></tr>
 							<tr><td align="right">Istina:</td><td><a href="https://istina.msu.ru/profile/ashaytan/">405377</a></td></tr>
 							<tr><td align="right">eLibrary SPIN:</td><td><a href="https://elibrary.ru/author_items.asp?authorid=185377&pubrole=100&show_refs=1&show_option=0">6275-5481</a></td></tr>
+       <tr><td align="right">eLibrary AuthorID:</td><td><a href="https://elibrary.ru/author_items.asp?authorid=185377&pubrole=100&show_refs=1&show_option=0">185377</a></td></tr>
 						</table>
 					</td>
 				</tr>
