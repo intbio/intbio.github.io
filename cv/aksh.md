@@ -219,7 +219,7 @@ Alexey Shaytan received his diploma in condensed matter physics from Moscow Stat
 
 			<tr><td align="center" colspan="2"><b>Theses/Dissertations</b></td></tr>
 			
-			<tr class="rowu"><td>2011</td><td align="left"><u>Shaytan AK</u>. Computer simulations of self-assembling nanofibers from thiophene-peptide oligomers. PHD thesis. Universität Ulm. 2012. doi:<a href="http://dx.doi.org/10.18725/OPARU-1936">10.18725/OPARU-1936</a></td></tr>
+			<tr class="rowu"><td>2011</td><td align="left"><u>Shaytan AK</u>. Computer simulations of self-assembling nanofibers from thiophene-peptide oligomers. PHD thesis. Universität Ulm. 2011. doi:<a href="http://dx.doi.org/10.18725/OPARU-1936">10.18725/OPARU-1936</a></td></tr>
 
 			<tr class="rowu"><td>2010</td><td align="left"><u>Shaytan AK</u>. Computer simulations and statistical analysis of self-organizing molecular structures based on peptides (in Russian). PHD thesis. Moscow State University. 2010. <a href="https://www.dropbox.com/s/pbpavd74fnuciox/thesis_final_sm.pdf?dl=0">PDF</a></td></tr>
 
