@@ -48,6 +48,7 @@ permalink: /present/
 - [ИБХ школа 2024](https://www.dropbox.com/scl/fi/4axnzy9ig1i78tfeg539k/shaytan_2023.pptx?rlkey=o9w6uuo6bnqhb9u3aj0dgtt3i&dl=0)
 - [Эпидемиология 2025](https://www.dropbox.com/scl/fi/xuqx5b75lg74kvega4ms7/shaytan_Epidemiology.pptx?rlkey=7i2ubg4m3sbgfw5ur5rqc0t6w&dl=0)
 - [Эпидемиология 2026](https://www.dropbox.com/scl/fi/givckg1vh57qoxiuj57r6/shaytan_Epidemiology_to_show.pptx?rlkey=6p5lppa1qpdobu59o2usblliy&st=oprqzgv3&dl=0)
+- Биоинформатика 26-27 [0](https://www.dropbox.com/scl/fi/dffcw9m94u8r81c1jw97h/0..pptx?rlkey=iyr9gnrxxwm8tc5mh4jnpwnkz&dl=0) [1](https://www.dropbox.com/scl/fi/adxoy301d6an2t01qzwzc/1.-_-_-_.pptx?rlkey=nc7fpjxxuidxs47e0ounfgtdi&dl=0)
 
 ## Тезисы
 - [биофизич съезд](https://drive.google.com/file/d/1Sbvq-0tKhdbXvu4f_WldkGYGgihVN08g/view?usp=sharing)
